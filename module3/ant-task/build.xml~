@@ -1,4 +1,4 @@
-<project name="hant-task" basedir="." default="main">
+<project name="ant-task" basedir="." default="main">
  
   <!-- Ant properties -->
   <property name="src.dir"     value="src"/>
